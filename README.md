@@ -58,7 +58,4 @@ The conclusion summarizes the key findings of the project, highlighting the iden
 
 Future work suggests potential areas for further research and improvement. It includes exploring additional datasets, refining clustering techniques, and developing predictive models for electricity load forecasting.
 
-## References
-
-This section lists the references and resources used throughout the project, including academic papers, datasets, and software tools.
 
